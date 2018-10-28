@@ -1,11 +1,4 @@
 #coding=utf-8
-""" 
-   genPlate.py:生成随机车牌
-"""
-
-__author__ = "Huxiaoman"
-__copyright__ = "Copyright (c) 2017 "
-
 import PIL
 from PIL import ImageFont
 from PIL import Image
